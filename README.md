@@ -10,7 +10,7 @@ This repository showcases a collection of projects and solutions in the fields o
    - Transition and emission probability matrices for state analysis.  
    - Computation of the most likely sequence of states using HMM principles.  
    - Probability calculation for observation sequences.  
-   **Folder**: `HiddenMarkovModel`  
+   **Folder**: [HiddenMarkovModel-CoinAnalysis](./HiddenMarkovModel-CoinAnalysis) 
 
 ## Usage
 
