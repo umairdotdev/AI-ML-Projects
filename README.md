@@ -12,6 +12,14 @@ This repository showcases a collection of projects and solutions in the fields o
    - Probability calculation for observation sequences.  
    **Folder**: [HiddenMarkovModel-CoinAnalysis](./HiddenMarkovModel-CoinAnalysis) 
 
+2. **Image Segmentation for LTE and 5G Classification**  
+   **Description**: Instance segmentation project using U-Net to classify LTE and 5G signals from images.  
+   **Key Features**:  
+   - U-Net architecture for image segmentation.  
+   - Segmentation of LTE, 5G, and noise regions in images.  
+   - Demonstrates deep learning applications in telecommunication-related tasks.  
+   **Folder**: [Image-Segmentation-4G-5G](./Image-Segmentation-4G-5G)
+
 ## Usage
 
 Clone the repository:  
