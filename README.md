@@ -42,7 +42,7 @@ This repository showcases a collection of projects and solutions in the fields o
    - Solves `N x N` sliding puzzles using heuristic search algorithms.  
    - Implements Manhattan distance heuristic for A* and IDA* algorithms.  
    - Checks for puzzle solvability before attempting a solution.  
-   **Folder**: [N-Puzzle-AStar-IDAStar-Solver](./N-Puzzle-AStar-IDAStar-Solver)
+   **Folder**: [N-Puzzle-A*-IDA*-Solver](./N-Puzzle-A*-IDA*-Solver)
 
 ## Usage
 
