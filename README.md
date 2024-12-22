@@ -1,4 +1,3 @@
-
 # AI and Machine Learning Projects
 
 This repository showcases a collection of projects and solutions in the fields of artificial intelligence and machine learning. It serves as a hub for various models, algorithms, and applications demonstrating core concepts and practical implementations.
@@ -37,10 +36,17 @@ This repository showcases a collection of projects and solutions in the fields o
    - Visualizations of participant attributes and outcomes.  
    **Folder**: [Speed-Dating-Analysis](./Speed-Dating-Analysis)
 
+5. **N-Puzzle A*-IDA* Solver**  
+   **Description**: Implementation of a sliding puzzle solver using A* and IDA* algorithms.  
+   **Key Features**:  
+   - Solves `N x N` sliding puzzles using heuristic search algorithms.  
+   - Implements Manhattan distance heuristic for A* and IDA* algorithms.  
+   - Checks for puzzle solvability before attempting a solution.  
+   **Folder**: [N-Puzzle-AStar-IDAStar-Solver](./N-Puzzle-AStar-IDAStar-Solver)
+
 ## Usage
 
 Clone the repository:  
 ```bash
 git clone https://github.com/your-username/AI-and-ML.git
 cd AI-and-ML
-```
