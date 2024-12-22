@@ -1,3 +1,4 @@
+
 # AI and Machine Learning Projects
 
 This repository showcases a collection of projects and solutions in the fields of artificial intelligence and machine learning. It serves as a hub for various models, algorithms, and applications demonstrating core concepts and practical implementations.
@@ -20,6 +21,22 @@ This repository showcases a collection of projects and solutions in the fields o
    - Demonstrates deep learning applications in telecommunication-related tasks.  
    **Folder**: [Image-Segmentation-4G-5G](./Image-Segmentation-4G-5G)
 
+3. **Global Terrorism Analysis**  
+   **Description**: Analysis of global terrorism trends using datasets spanning 1970 to 2016.  
+   **Key Features**:  
+   - Visualizations of year-wise and region-wise terrorism data.  
+   - Analysis of terrorism trends in Ireland.  
+   - Interactive maps showing clustering of casualties.  
+   **Folder**: [Global-Terrorism-Analysis](./Global-Terrorism-Analysis)
+
+4. **Speed Dating Analysis**  
+   **Description**: Predictive analysis and visualization of speed dating outcomes based on participant attributes.  
+   **Key Features**:  
+   - Predictive modeling of likeability and dating preferences.  
+   - Relationship analysis between self-reported and partner-rated attributes.  
+   - Visualizations of participant attributes and outcomes.  
+   **Folder**: [Speed-Dating-Analysis](./Speed-Dating-Analysis)
+
 ## Usage
 
 Clone the repository:  
@@ -27,4 +44,3 @@ Clone the repository:
 git clone https://github.com/your-username/AI-and-ML.git
 cd AI-and-ML
 ```
-
