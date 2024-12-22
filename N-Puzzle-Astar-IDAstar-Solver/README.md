@@ -1,4 +1,4 @@
-# Puzzle Solver
+# N Puzzle A* IDA* Solver
 
 This repository contains a Python implementation of a sliding puzzle solver using A* and IDA* algorithms.
 
