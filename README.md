@@ -36,7 +36,7 @@ This repository showcases a collection of projects and solutions in the fields o
    - Visualizations of participant attributes and outcomes.  
    **Folder**: [Speed-Dating-Analysis](./Speed-Dating-Analysis)
 
-5. **`N-Puzzle A*-IDA* Solver`**  
+5. **N Puzzle Astar IDAstar Solver**  
    **Description**: Implementation of a sliding puzzle solver using A* and IDA* algorithms.  
    **Key Features**:  
    - Solves `N x N` sliding puzzles using heuristic search algorithms.  
