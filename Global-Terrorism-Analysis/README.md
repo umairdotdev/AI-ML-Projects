@@ -9,16 +9,25 @@ This repository contains scripts and data for analyzing global terrorism trends.
   - `TerroristAttacksIreland.R`: Focuses on analyzing terrorism trends specific to Ireland.
 
 - **Data**:
-  - `globalterrorismdb.csv`: Dataset containing global terrorism data from 1970 to 2016.
+  - `globalterrorismdb.rar`: Compressed dataset containing global terrorism data from 1970 to 2016.
 
 ## Instructions
-1. Place the data file `globalterrorismdb.csv` in the same directory as the scripts.
-2. Run the scripts using R or RStudio.
-3. Review the visualizations and summaries generated for insights.
+1. **Extract the Data File**:
+   - Use a RAR extraction tool (e.g., WinRAR, 7-Zip, or any equivalent software) to extract the file `globalterrorismdb.rar`.
+   - Place the extracted `globalterrorismdb.csv` file in the same directory as the scripts.
+
+2. **Run the Scripts**:
+   - Open R or RStudio and load the provided scripts.
+   - Execute the scripts to analyze the data and generate visualizations.
+
+3. **Review Outputs**:
+   - Check the visualizations and summaries for insights into global terrorism trends.
 
 ## Prerequisites
-- R libraries: `Matrix`, `ggplot2`, `data.table`, `treemap`, `highcharter`, `doMC`, `readxl`, `tidyr`, `dplyr`, `caret`.
+- Ensure the following R libraries are installed before running the scripts:
+  - `Matrix`, `ggplot2`, `data.table`, `treemap`, `highcharter`, `doMC`, `readxl`, `tidyr`, `dplyr`, `caret`.
 
 ## Outputs
-- Visualizations and maps showcasing terrorism trends by region, country, and year.
-        
+- The scripts generate:
+  - Visualizations and maps showing terrorism trends by region, country, and year.
+  - Specific analyses for terrorism trends in Ireland.
