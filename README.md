@@ -44,6 +44,14 @@ This repository showcases a collection of projects and solutions in the fields o
    - Checks for puzzle solvability before attempting a solution.  
    **Folder**: [N-Puzzle-Astar-IDAstar-Solver](./N-Puzzle-Astar-IDAstar-Solver)
 
+6. **Reinforcement Learning: Grid World Simulation**  
+   **Description**: Simulation of a grid world for reinforcement learning using Q-Learning and Value Iteration.  
+   **Key Features**:  
+   - Supports Q-Learning and Value Iteration for agent decision-making.  
+   - Incorporates obstacles, pitfalls, and goal states with respective rewards and penalties.  
+   - Generates an optimal policy mapping each grid cell to an action.  
+   **Folder**: [Grid-World-Simulation](./Grid-World-Simulation)
+
 ## Usage
 
 Clone the repository:  
