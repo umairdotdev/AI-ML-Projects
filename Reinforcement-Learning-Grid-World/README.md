@@ -54,8 +54,8 @@ python3 grid_world_simulation.py v_input.txt v_output.txt
 - `grid_world_simulation.py`: The main script for the simulation.
 - `q_input.txt`: Sample input file for Q-Learning.
 - `v_input.txt`: Sample input file for Value Iteration.
-- `q_learning_output_uploaded.txt`: Output file for Q-Learning.
-- `value_iteration_output_uploaded.txt`: Output file for Value Iteration.
+- `q_learning_output.txt`: Output file for Q-Learning.
+- `value_iteration_output.txt`: Output file for Value Iteration.
 - `README.md`: Project documentation.
 
 ## Requirements
