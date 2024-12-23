@@ -45,5 +45,5 @@ This project uses instance segmentation to classify LTE and 5G signals from imag
 The project demonstrates how U-Net can be adapted for signal classification in images, particularly LTE and 5G signals. It highlights the potential of deep learning in telecommunication-related image processing tasks.
 
 ## Data Source
-The data used for this project was taken from:  
-[https://de.mathworks.com/help/comm/ug/spectrum-sensing-with-deep-learning-to-identify-5g-and-lte-signals.html](https://de.mathworks.com/help/comm/ug/spectrum-sensing-with-deep-learning-to-identify-5g-and-lte-signals.html)
+This project uses data from a MathWorks example. Due to licensing restrictions, the data is not included in this repository. You can access the original data [https://de.mathworks.com/help/comm/ug/spectrum-sensing-with-deep-learning-to-identify-5g-and-lte-signals.html](https://de.mathworks.com/help/comm/ug/spectrum-sensing-with-deep-learning-to-identify-5g-and-lte-signals.html) under MathWorks' terms of use.  
+
