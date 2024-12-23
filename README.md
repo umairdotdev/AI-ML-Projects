@@ -50,7 +50,7 @@ This repository showcases a collection of projects and solutions in the fields o
    - Supports Q-Learning and Value Iteration for agent decision-making.  
    - Incorporates obstacles, pitfalls, and goal states with respective rewards and penalties.  
    - Generates an optimal policy mapping each grid cell to an action.  
-   **Folder**: [Grid-World-Simulation](./Grid-World-Simulation)
+   **Folder**: [Reinforcement-Learning-Grid-World](./Reinforcement-Learning-Grid-World)
 
 ## Usage
 
